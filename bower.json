@@ -1,0 +1,9 @@
+{
+  "name": "angular-azure-blob-upload-bypass",
+  "version": "1.0.1",
+  "description": "AngularJS Azure Blob Upload",
+  "main": "./azure-blob-upload.js",
+  "license": "MIT",
+  "homepage": "https://github.com/madebysoren/angular-azure-blob-upload",
+  "ignore": []
+}
